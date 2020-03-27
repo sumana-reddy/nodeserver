@@ -1,0 +1,19 @@
+
+{
+    "name": "nodeserver",
+    "version": "1.0.0",
+    "description": "practice app for node.js",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "nodeserver"
+    },
+    "keywords": [
+      "node"
+    ],
+    "author": "sumana reddy",
+    "license": "ISC"
+  }
